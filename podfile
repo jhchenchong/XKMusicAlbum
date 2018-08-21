@@ -1,0 +1,6 @@
+inhibit_all_warnings!
+target 'XKMusicAlbum' do
+platform :ios, "10.0"
+pod 'HXPhotoPicker'
+pod 'SVProgressHUD'
+end

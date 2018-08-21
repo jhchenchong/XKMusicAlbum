@@ -1,0 +1,26 @@
+PODS:
+  - HXPhotoPicker (2.2.0):
+    - SDWebImage (~> 4.4.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - HXPhotoPicker
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HXPhotoPicker
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  HXPhotoPicker: 31be3e2dbd4c93f911b641aac1b15dc6691fa654
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: a23c273acd1134a90439f586254b09a5c38c01b1
+
+COCOAPODS: 1.5.0
